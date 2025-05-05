@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/nickpending-mcp-censys-badge.png)](https://mseep.ai/app/nickpending-mcp-censys)
+
 # mcp-censys
 
 > mcp-censys is a MCP server that taps into the Censys Search API for real-time domain, IP, and FQDN reconnaissance, now with enhanced **MCP Prompt Templates**.
